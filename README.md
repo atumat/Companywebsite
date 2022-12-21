@@ -1,4 +1,4 @@
-# Company-website(ongoing)
+# Company-website(ongoing project)
 # Responsive Website
 HTML
 CSS
