@@ -1,5 +1,5 @@
 # Company-website
-#Responsive Website
+# Responsive Website
 HTML
 CSS
 Developed a Responsive Company Website using HTML5 and CSS3
