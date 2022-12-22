@@ -1,8 +1,2 @@
-# Company-website(ongoing project)
-# Responsive Website
-HTML
-CSS
-Developed a Responsive Company Website using HTML5 and CSS3
-Used HTML tags, tables, lists, links and images, forms to make static web pages  
-Built a responsive web page using Responsive web design principles 
+HTML stands for Hyper Text Markup Language. It is used to design web pages using a markup language. HTML is an abbreviation of Hypertext and Markup language. Hypertext defines the link between the web pages. The markup language is used to define the text document within the tag which defines the structure of web pages.
 
