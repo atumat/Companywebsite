@@ -7,8 +7,6 @@
 
 
 
-
-
 HTML stands for Hyper Text Markup Language. It is used to design web pages.
 
 
