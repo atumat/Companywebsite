@@ -1,8 +1,8 @@
 <p align="center">
-
+<img src="https://img.shields.io/badge/made%20by%20-Aarti-blue">
+<img src="https://img.shields.io/badge/HTML-pink">
+<img src="https://img.shields.io/badge/CSS-brightgreen">
 <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103">
-<img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen">
-
 </p>
 
 
