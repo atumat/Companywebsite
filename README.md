@@ -1,6 +1,7 @@
  <h1>Company Website</h1>
 <p align="justify">
 A web page is a document which is commonly written in HTML and translated by a web browser. A web page can be identified by entering an URL. A Web page can be of the static or dynamic type. With the help of HTML only, we can create static web pages.
+
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/made%20by%20-Aarti-blue">
