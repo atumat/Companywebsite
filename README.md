@@ -14,7 +14,6 @@ A web page is a document which is commonly written in HTML and translated by a w
 
 
 
-
 <h3> TABLE OF CONTENTS </h3>
 <ol type="I">
     <li><a href="#intro"> HTML </a></li>
